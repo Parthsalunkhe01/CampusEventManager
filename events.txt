@@ -1,2 +1,3 @@
 Name: Technoblast3, date: 26/2/2026, venue: CS Department,VJTI
 Name: TechExplorer, date: 4/4/2026, venue: EXTC Department,VJTI
+Contributors : Parth Jadhav
